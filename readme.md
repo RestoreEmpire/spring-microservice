@@ -9,6 +9,7 @@
 -  [Микросервисная архетектура](https://habr.com/ru/company/milandr/blog/563954/)
 -  [Spring Security OAuth2 Resource server](https://habr.com/ru/company/otus/blog/453664/)
 -  [Spring Seucurity documentation](https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html)
+-  [Spring Security project](https://www.tutorialspoint.com/spring_boot/spring_boot_oauth2_with_jwt.htm#:~:text=Spring%20Security%20OAuth2%20%E2%88%92%20Implements%20the,Starter%20Web%20%E2%88%92%20Writes%20HTTP%20endpoints.)
 
 ## ToDo
 -  Centralized auth
