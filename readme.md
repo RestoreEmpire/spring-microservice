@@ -7,6 +7,17 @@
 -  [Building Gateway](https://spring.io/guides/gs/gateway/)
 -  [Complex Application](https://github.com/microservices-patterns/ftgo-application)
 -  [Микросервисная архетектура](https://habr.com/ru/company/milandr/blog/563954/)
+-  [Spring Security OAuth2 Resource server](https://habr.com/ru/company/otus/blog/453664/)
+-  [Spring Seucurity documentation](https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html)
+
+## ToDo
+-  Centralized auth
+-  Parent pom file
+-  Unit tests
+-  JDoc
+-  RabbitMQ integration
+-  Swagger integration
+-  Docker(???)
 
 # Blah-blah-blah
 ## Archetecture
