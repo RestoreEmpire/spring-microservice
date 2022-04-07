@@ -2,8 +2,6 @@ server:
   port: 8090
 
 eureka:
-  instance:
-    prefer-ip-address: true # registers the service ip rather than the server name
   client:
     register-with-eureka: true # register him self at eureka
     fetch-registry: true # pull down a local copy of the registries
@@ -20,7 +18,7 @@ spring:
           enabled: true
           lowerCaseServiceId: true
       routes:
-      - id: SERVICE-A
-        uri: lb://SERVICE-A
+      - id: AUTH-SERVER
+        uri: lb://AUTH-SERVER
         predicates:
-        - Path=/service-a/**
+        - Path=/auth/**
